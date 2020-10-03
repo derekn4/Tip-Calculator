@@ -16,6 +16,7 @@
 		F2AD94302439248400545D6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2AD942E2439248400545D6B /* LaunchScreen.storyboard */; };
 		F2AD943B2439248400545D6B /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AD943A2439248400545D6B /* Tip_CalculatorTests.swift */; };
 		F2AD94462439248400545D6B /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AD94452439248400545D6B /* Tip_CalculatorUITests.swift */; };
+		F2F1C0592529027B00AB0260 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F1C0582529027B00AB0260 /* Settings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F2AD94412439248400545D6B /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2AD94452439248400545D6B /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		F2AD94472439248400545D6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2F1C0582529027B00AB0260 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				F2AD942E2439248400545D6B /* LaunchScreen.storyboard */,
 				F2AD94312439248400545D6B /* Info.plist */,
 				F24800D324FF2F070063D758 /* SettingsViewController.swift */,
+				F2F1C0582529027B00AB0260 /* Settings.swift */,
 			);
 			path = "Tip Calculator";
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				F2AD94242439248300545D6B /* AppDelegate.swift in Sources */,
 				F2AD94262439248300545D6B /* SceneDelegate.swift in Sources */,
 				F24800D424FF2F080063D758 /* SettingsViewController.swift in Sources */,
+				F2F1C0592529027B00AB0260 /* Settings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
