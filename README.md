@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Split Amount
+- [X] Settings page with Dark Mode
 
 ## Video Walkthrough 
 
